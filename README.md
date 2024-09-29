@@ -8,7 +8,6 @@ This project is a web-based Python tool for automating the search of Danish gene
 - **Excel file processing**: Input names from an Excel file and outputs search results (URLs and counts) into a new Excel file.
 - **Flask-based web interface**: The application runs a Flask web server where users can trigger the search and monitor its progress.
 - **Batch processing**: Names are processed in batches, and there is a delay between batch requests to avoid overwhelming the servers.
-- **Logging**: Logs are generated to track the progress of the search.
 
 ## Requirements
 
